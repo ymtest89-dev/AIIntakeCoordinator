@@ -1,10 +1,6 @@
 # 🎤 AIIntakeCoordinator
 AI Intake Coordinator @ the AI Conference Hackathon
 
-# 🎤 AI Voice Intake Revolution 
-## The End of Contact Forms (Finally!) 
-> *"Contact forms are where customers go to die. This hackathon brought them back to life with voice."* 🧟‍♂️➡️😊
-
 Ever tried hiring an intake coordinator for a business? Yeah, good luck with that! 😅 During the hackathon, I built an AI Intake Co-ordinator Powered by Vapi, Strand Agents, Anthropic Claude, Neo4j and Weaviate. Slide deck by Gamma and code with Claude Code and Codex.
 
 ### 🏗️ The Tech Stack
@@ -85,6 +81,4 @@ graph TD
 
 <img width="910" height="554" alt="Screenshot 2025-09-16 at 3 31 43 PM" src="https://github.com/user-attachments/assets/98bf985f-1648-48ea-8602-262a074fcdec" />
 <img width="570" height="349" alt="Screenshot 2025-09-16 at 3 31 55 PM" src="https://github.com/user-attachments/assets/27d1db46-a773-4cd9-9fa0-2ca0801520f8" />
-
-
 <img width="890" height="356" alt="Screenshot 2025-09-16 at 3 51 37 PM" src="https://github.com/user-attachments/assets/c6ea93a9-e128-4854-a2a7-02e9bbd5e4c2" />
